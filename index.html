@@ -16,7 +16,7 @@
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='24' fill='%230f172a'/%3E%3Ctext x='50' y='58' text-anchor='middle' font-size='36' fill='%23f8fafc' font-family='Arial'%3EMB%3C/text%3E%3C/svg%3E">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -55,7 +55,6 @@
       ]
     }
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
     <link rel="stylesheet" href="styles/main.css">
 </head>
 <body>
@@ -82,8 +81,8 @@
                     <span class="eyebrow">Associate Professor | Aviation Management</span>
                     <h1>Mahmut <span>Bakır</span></h1>
                     <p class="hero-text">
-                        Academic researcher working at the intersection of airline business, emerging technologies in aviation, consumer behavior, and sustainability in air transport, 
-                        with a focus on behavioral modeling and multi-method analytics.
+                        Academic researcher working at the intersection of airline business, service quality,
+                        consumer behavior, sustainability, and decision analytics in air transport.
                     </p>
                     <div class="hero-actions">
                         <a class="btn btn-primary" href="#publications">Selected Publications</a>
@@ -99,7 +98,7 @@
                     <img src="assets/profile.jpeg" class="hero-photo" alt="Portrait of Mahmut Bakır">
                     <div class="hero-card-meta">
                         <span class="label">Current Role</span>
-                        <h2>Associate Professor</h2>
+                        <h2>Department of Aviation Management</h2>
                         <p>School of Civil Aviation, Samsun University</p>
                     </div>
                     <div class="stat-strip">
@@ -136,9 +135,9 @@
                             Anadolu University, and currently serves as an associate professor at Samsun University.
                         </p>
                         <p>
-                            His primary research focuses on behavioral modeling and multi-method analytical approaches 
-                            within the aviation domain. In addition, his work broadly encompasses airline management, 
-                            service marketing, customer experience, sustainable aviation, and advanced quantitative methods.
+                            His main research focus is behavioral modeling and multi-method analytics in aviation.
+                            His work also covers airline business, service marketing, customer experience,
+                            sustainable aviation, bibliometric mapping, and multi-criteria decision approaches.
                         </p>
                     </article>
 
@@ -152,6 +151,10 @@
                             <span>Consumer Behavior</span>
                             <span>Sustainable Aviation</span>
                             <span>Decision Analysis</span>
+                            <span>MCDM</span>
+                            <span>Bibliometric Analysis</span>
+                            <span>Multivariate Statistics</span>
+                            <span>Airport Service Quality</span>
                         </div>
                     </article>
 
@@ -217,20 +220,42 @@
                     <span class="eyebrow">Professional Track</span>
                     <h2>Experience</h2>
                 </div>
-                <div class="two-column">
-                    <article class="card">
-                        <span class="label">Current Position</span>
-                        <h3>Associate Professor</h3>
-                        <p>Samsun University, Department of Aviation Management</p>
-                        <p class="muted">Head of the Aviation Management Department.</p>
+                <div class="timeline">
+                    <article class="timeline-item">
+                        <span class="timeline-year">Nov 2024 - Present</span>
+                        <div class="card timeline-card">
+                            <h3>Associate Professor</h3>
+                            <p>Samsun University, Department of Aviation Management</p>
+                            <p class="muted">Head of the Aviation Management Department.</p>
+                        </div>
                     </article>
-                    <article class="card">
-                        <span class="label">Highlights</span>
-                        <ul class="simple-list">
-                            <li>Faculty member in aviation management at Samsun University</li>
-                            <li>Research spanning transportation, business, marketing, and quantitative methods</li>
-                            <li>Published in aviation, tourism, sustainability, and management journals</li>
-                        </ul>
+                    <article class="timeline-item">
+                        <span class="timeline-year">Dec 2022 - Nov 2024</span>
+                        <div class="card timeline-card">
+                            <h3>Assistant Professor</h3>
+                            <p>Samsun University, Department of Aviation Management</p>
+                        </div>
+                    </article>
+                    <article class="timeline-item">
+                        <span class="timeline-year">Sep 2022 - Dec 2022</span>
+                        <div class="card timeline-card">
+                            <h3>Research Assistant</h3>
+                            <p>Samsun University</p>
+                        </div>
+                    </article>
+                    <article class="timeline-item">
+                        <span class="timeline-year">May 2018 - Sep 2022</span>
+                        <div class="card timeline-card">
+                            <h3>Research Assistant</h3>
+                            <p>Eskişehir Technical University</p>
+                        </div>
+                    </article>
+                    <article class="timeline-item">
+                        <span class="timeline-year">Mar 2016 - May 2018</span>
+                        <div class="card timeline-card">
+                            <h3>Research Assistant</h3>
+                            <p>Anadolu University, Graduate School of Social Sciences</p>
+                        </div>
                     </article>
                 </div>
             </div>
@@ -255,7 +280,7 @@
                     </article>
                     <article class="metric-card">
                         <span>Scopus</span>
-                        <strong>776</strong>
+                        <strong>714</strong>
                         <p>Citations</p>
                     </article>
                     <article class="metric-card">
@@ -273,22 +298,73 @@
                     <span class="eyebrow">Selected Output</span>
                     <h2>Publications</h2>
                 </div>
-                <div class="pub-layout">
-                    <article class="card">
-                        <span class="label">Highlighted Works</span>
-                        <ol id="publicationList" class="publication-list"></ol>
-                    </article>
-                    <article class="card">
-                        <span class="label">At a Glance</span>
-                        <ul class="simple-list compact">
-                            <li>72 total publications listed on AVESIS</li>
-                            <li>28 Scopus-indexed publications</li>
-                            <li>21 Web of Science publications</li>
-                            <li>Work published across aviation, tourism, business, and sustainability outlets</li>
-                        </ul>
-                        <a class="inline-link" href="https://avesis.samsun.edu.tr/mahmut.bakir/yayinlar" target="_blank" rel="noreferrer">View full public publication list</a>
-                    </article>
-                </div>
+                <article class="card">
+                    <span class="label">Recent 10 Studies</span>
+                    <div class="publication-table-wrap">
+                        <table class="publication-table">
+                            <thead>
+                                <tr>
+                                    <th>Year</th>
+                                    <th>Publication Full Details</th>
+                                    <th>Scopus Quartiles</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>2026</td>
+                                    <td><strong>Dönmez K., Bakır M., Çeçen R. K.</strong> A comprehensive data-driven MCDM approach to determine the best single objective function for the aircraft sequencing and scheduling problem. <em>Expert Systems with Applications</em>, 296.</td>
+                                    <td><span class="quartile">Q1</span></td>
+                                </tr>
+                                <tr>
+                                    <td>2025</td>
+                                    <td><strong>Bakır M., Akan Ş., Afaneh İ. N. Y., Kurt M.</strong> Relationships between service quality and customer satisfaction in airlines: Evidence from SEM and ANN based on AIRQUAL model. <em>European Journal of Tourism Research</em>, 41.</td>
+                                    <td><span class="quartile">Q2</span></td>
+                                </tr>
+                                <tr>
+                                    <td>2025</td>
+                                    <td><strong>Bakır M., Sak F. S.</strong> Charting the landscape of customer experience research in the business field: a bibliometric exploration. <em>ESIC-MARKET</em>, 56(1), 1-26.</td>
+                                    <td><span class="quartile">-</span></td>
+                                </tr>
+                                <tr>
+                                    <td>2025</td>
+                                    <td><strong>Zungur N., Orhan G., Bakır M.</strong> Exploring intention to travel with eco-friendly airlines: A dual-stage SEM-ANN approach. <em>Case Studies on Transport Policy</em>, 19.</td>
+                                    <td><span class="quartile">Q1</span></td>
+                                </tr>
+                                <tr>
+                                    <td>2025</td>
+                                    <td><strong>Bakır M., Akan Ş., Özdemir E., Han H.</strong> Mapping the intellectual and thematic evolution of airline service quality research: a bibliometric analysis (1981-2024). <em>Journal of Travel and Tourism Marketing</em>, 42(6), 785-813.</td>
+                                    <td><span class="quartile">Q1</span></td>
+                                </tr>
+                                <tr>
+                                    <td>2025</td>
+                                    <td><strong>Bakır M., Atalık Ö., Itani N.</strong> Service quality and repurchase intentions in the airline industry: a multiple mediation analysis through customer citizenship behaviour. <em>Current Issues in Tourism</em>, 28(24), 4025-4046.</td>
+                                    <td><span class="quartile">Q1</span></td>
+                                </tr>
+                                <tr>
+                                    <td>2025</td>
+                                    <td><strong>Mkedder N., Bakır M., Das M.</strong> Motivational Theory Perspective of Factors Influencing MOBA In-game Items Purchase: A Fuzzy DEMATEL Approach. <em>International Journal of Information Technology and Decision Making</em>.</td>
+                                    <td><span class="quartile">Q2</span></td>
+                                </tr>
+                                <tr>
+                                    <td>2024</td>
+                                    <td><strong>Yazgan B., Doğan Ö., Bakır M., Gun D.</strong> Sustainable Passenger Services and Child-Friendly Airport Experience: A Case Study of Istanbul Airport. <em>Sustainability (Switzerland)</em>, 16(23).</td>
+                                    <td><span class="quartile">Q1</span></td>
+                                </tr>
+                                <tr>
+                                    <td>2024</td>
+                                    <td><strong>Bakır M., Itani N.</strong> Modelling Behavioural Factors Affecting Consumers' Intention to Adopt Electric Aircraft: A Multi-Method Investigation. <em>Sustainability (Switzerland)</em>, 16(19).</td>
+                                    <td><span class="quartile">Q1</span></td>
+                                </tr>
+                                <tr>
+                                    <td>2024</td>
+                                    <td><strong>Bakır M., Atalık Ö.</strong> Examining cross-cultural patterns in customer citizenship behavior: A cross-cultural exploration between Turkish and British airline passengers. <em>Travel Behaviour and Society</em>, 37.</td>
+                                    <td><span class="quartile">Q1</span></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <a class="inline-link" href="https://avesis.samsun.edu.tr/mahmut.bakir/yayinlar" target="_blank" rel="noreferrer">View full public publication list</a>
+                </article>
             </div>
         </section>
 
