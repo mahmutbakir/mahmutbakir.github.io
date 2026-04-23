@@ -156,6 +156,9 @@ canvas {
     font-family: var(--font-display);
     line-height: 0.98;
     margin: 14px 0;
+    font-variant-ligatures: none;
+    font-feature-settings: "liga" 0, "clig" 0;
+    text-rendering: optimizeLegibility;
 }
 
 .hero-copy h1 {
