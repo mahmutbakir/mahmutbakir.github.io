@@ -13,7 +13,7 @@ Static personal academic website prepared for GitHub Pages.
 
 ## Publish on GitHub Pages
 
-1. Create a repository such as `mahmut-bakir.github.io` or any project repository.
+1. Create a repository such as `mahmutbakir.github.io` or any project repository.
 2. Upload these files to the repository root.
 3. If you use a project repository, enable GitHub Pages from `Settings -> Pages`.
 4. Select the branch and root folder, then save.
