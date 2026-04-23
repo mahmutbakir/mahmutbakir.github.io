@@ -6,7 +6,7 @@ const projectData = [
         meta: "2023-2027"
     },
     {
-        label: "Officially Funded Project",
+        label: "TUBITAK 2237-A",
         title: "Project Writing Training for PhD Students",
         text: "Training project focused on project development capacity in civil aviation management, management, organization, and marketing.",
         meta: "2021"
