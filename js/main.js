@@ -20,9 +20,9 @@ const recentStudies = [
         quartile: "Q1"
     },
     {
-        year: "2026",
-        details: "<strong>Bak&#305;r M.</strong> Sustainability article details pending from DOI record. <em>Sustainability (Switzerland)</em>, 18(8), 3972. <a href=\"https://doi.org/10.3390/su18083972\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
-        quartile: "Q1"
+    year: "2026",
+    details: "<strong>Sevim N., Yılmaz A., Karamaşa Ç., Eroğlu Hall E., Bakır M.</strong> Tourism Structure, Rural Accommodation and External Balance: A Time-Varying Analysis for Türkiye. <em>Sustainability</em>, 18(8). <a href=\"https://doi.org/10.3390/su18083972\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
+    quartile: "Q2"
     },
     {
         year: "2026",
