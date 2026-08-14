@@ -16,6 +16,11 @@ const projectData = [
 const recentStudies = [
     {
         year: "2026",
+    details: "<strong>Bak&#305;r M., Mkedder N., Ekmen E., Oral Y. E., Celiker &#304;.</strong> Role of perceived value and emotions in shaping customer citizenship behavior in airlines: A dual-method approach using PLS-SEM and fsQCA. <em>Research in Transportation Business & Management</em>, 69, 101842. <a href=\"https://doi.org/10.1016/j.rtbm.2026.101842\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
+    quartile: "Q1"
+    },
+    {
+        year: "2026",
         details: "<strong>Mkedder N., Bak&#305;r M.</strong> Mapping the Metaverse in Tourism and Hospitality: Systematic Review of Theory, Method, and Research Frontiers. <em>Journal of Travel Research</em>. <a href=\"https://doi.org/10.1177/00472875261441565\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
         quartile: "Q1"
     },
