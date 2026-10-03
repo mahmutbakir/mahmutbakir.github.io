@@ -21,12 +21,12 @@ const recentStudies = [
     },
     {
         year: "2026",
-    details: "<strong>Bak&#305;r M., Mkedder N., Ekmen E., Oral Y. E., Celiker &#304;.</strong> Role of perceived value and emotions in shaping customer citizenship behavior in airlines: A dual-method approach using PLS-SEM and fsQCA. <em>Research in Transportation Business & Management</em>, 69, 101842. <a href=\"https://doi.org/10.1016/j.rtbm.2026.101842\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
+    details: "<strong>Bakır M., Mkedder N., Ekmen E., Oral Y. E., Celiker &#304;.</strong> Role of perceived value and emotions in shaping customer citizenship behavior in airlines: A dual-method approach using PLS-SEM and fsQCA. <em>Research in Transportation Business & Management</em>, 69, 101842. <a href=\"https://doi.org/10.1016/j.rtbm.2026.101842\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
     quartile: "Q1"
     },
     {
         year: "2026",
-        details: "<strong>Mkedder N., Bak&#305;r M.</strong> Mapping the Metaverse in Tourism and Hospitality: Systematic Review of Theory, Method, and Research Frontiers. <em>Journal of Travel Research</em>. <a href=\"https://doi.org/10.1177/00472875261441565\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
+        details: "<strong>Mkedder N., Bakır M.</strong> Mapping the Metaverse in Tourism and Hospitality: Systematic Review of Theory, Method, and Research Frontiers. <em>Journal of Travel Research</em>. <a href=\"https://doi.org/10.1177/00472875261441565\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
         quartile: "Q1"
     },
     {
@@ -36,17 +36,17 @@ const recentStudies = [
     },
     {
         year: "2026",
-        details: "<strong>D&#246;nmez K., Bak&#305;r M., &#199;e&#231;en R. K.</strong> A comprehensive data-driven MCDM approach to determine the best single objective function for the aircraft sequencing and scheduling problem. <em>Expert Systems with Applications</em>, 296. <a href=\"https://doi.org/10.1016/j.eswa.2025.129172\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
+        details: "<strong>D&#246;nmez K., Bakır M., &#199;e&#231;en R. K.</strong> A comprehensive data-driven MCDM approach to determine the best single objective function for the aircraft sequencing and scheduling problem. <em>Expert Systems with Applications</em>, 296. <a href=\"https://doi.org/10.1016/j.eswa.2025.129172\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
         quartile: "Q1"
     },
     {
         year: "2025",
-        details: "<strong>Bak&#305;r M., Atal&#305;k &#214;., Itani N.</strong> Service quality and repurchase intentions in the airline industry: a multiple mediation analysis through customer citizenship behaviour. <em>Current Issues in Tourism</em>, 28(24), 4025-4046. <a href=\"https://doi.org/10.1080/13683500.2024.2410935\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
+        details: "<strong>Bakır M., Atal&#305;k &#214;., Itani N.</strong> Service quality and repurchase intentions in the airline industry: a multiple mediation analysis through customer citizenship behaviour. <em>Current Issues in Tourism</em>, 28(24), 4025-4046. <a href=\"https://doi.org/10.1080/13683500.2024.2410935\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
         quartile: "Q1"
     },
     {
         year: "2025",
-        details: "<strong>Mkedder N., Bak&#305;r M., Das M.</strong> Motivational Theory Perspective of Factors Influencing MOBA In-game Items Purchase: A Fuzzy DEMATEL Approach. <em>International Journal of Information Technology and Decision Making</em>. <a href=\"https://doi.org/10.1142/S0219622026500057\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
+        details: "<strong>Mkedder N., Bakır M., Das M.</strong> Motivational Theory Perspective of Factors Influencing MOBA In-game Items Purchase: A Fuzzy DEMATEL Approach. <em>International Journal of Information Technology and Decision Making</em>. <a href=\"https://doi.org/10.1142/S0219622026500057\" target=\"_blank\" rel=\"noreferrer\">DOI</a>",
         quartile: "Q2"
     },
     {
